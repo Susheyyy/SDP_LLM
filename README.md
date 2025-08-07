@@ -1,7 +1,7 @@
 # PDF Chatbot 
 
 SDP_LLM (June 2025) 
-<br>
+<br> <br>
 A lightweight chatbot app that lets users upload a PDF and ask questions about its content using Google's Gemini LLM. It integrates PDF uploading, text extraction, embedding generation, vector storage, and Retrieval Q&A, all in one seamless pipeline.
 
 <b> <h3>How it works: </b></h3>
