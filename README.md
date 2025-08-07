@@ -16,13 +16,13 @@ When a user inputs a question, the chatbot retrieves the most relevant text chun
 
 <b> <h3>Tech Stack: </b></h3> 
 1. Programming Language: Python is used for building, training and deploying the model
-2. Libraries Used:
-↣ Gradio: The trained model is integrated into a Gradio Interface
-↣ pdfplumer: For extracting text from PDF files
-↣ Langchain: For creating the retrieval-based QA chain
-↣ chromaDB: Vector database used to store and retrieve text embeddings
-3. Large Language Model(LLM) : Google Generative AI (gemini-2.5-pro)
-4. Embeddings: HuggingFace Embedding - To convert text chunks into numerical vectors <hr>
+2. Libraries Used:<br>
+↣ Gradio: The trained model is integrated into a Gradio Interface<br>
+↣ pdfplumer: For extracting text from PDF files <br>
+↣ Langchain: For creating the retrieval-based QA chain <br>
+↣ chromaDB: Vector database used to store and retrieve text embeddings <br>
+3. Large Language Model(LLM) : Google Generative AI (gemini-2.5-pro) 
+4. Embeddings: HuggingFace Embedding - To convert text chunks into numerical vectors  <hr>
 
 <b> <h3>Installation: </b></h3>
 - Install Dependencies:
