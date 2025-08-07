@@ -26,8 +26,8 @@ When a user inputs a question, the chatbot retrieves the most relevant text chun
 
 <b> <h3>Installation: </b></h3>
 - Install Dependencies:
-<pre><code>```python pip install langchain chromadb gradio google-generativeai pdfplumber transformers langchain-google-genai langchain-community ```</code></pre>
+<pre><code> pip install langchain chromadb gradio google-generativeai pdfplumber transformers langchain-google-genai langchain-community </code></pre>
 
 - Setting API Key:
-<pre><code>```python import os os.environ['GOOGLE_API_KEY'] = 'your_google_api_key_here' ```</code></pre>
+<pre><code> import os os.environ['GOOGLE_API_KEY'] = 'your_google_api_key_here' </code></pre>
 
